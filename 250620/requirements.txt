@@ -1,0 +1,4 @@
+# 장고
+Django>=4.0,<5.0
+# postgreSQL 드라이버
+psycopg2-binary
